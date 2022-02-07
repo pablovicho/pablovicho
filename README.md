@@ -1,7 +1,7 @@
 
 ### Hi there 👋 and welcome to my repo!
 
-## I'm Pablo, a fullstack javascript developer. 
+## I'm Pablo, a fullstack javascript developer 👨🏾‍💻. 
 
 - I'm currently working on a personal project based on **REMIX**, as a learning experience of both Remix and **TypeScript**.
 - I'm also working on a Boggle clone! Fun fact: I *love* word games 🤓.
