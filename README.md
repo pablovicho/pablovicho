@@ -8,6 +8,13 @@
 - I'm looking to collaborate with amazing web projects in a fast environment rich with learning experience.
 - If you like anything you see, contact me here, or at my [linkedin](https://www.linkedin.com/in/pablovicho/) profile! 
 
+
+Some of my latest projects: 
+
+- [Grow-app](https://github.com/pablovicho/growapp-client), my personal child, a diary for mental check-ups 👨🏻‍⚕️
+- [Hiking  together](https://github.com/pablovicho/Hiking-together), a social app for scheduling hiking dates 🧗🏽‍♂️
+- [Boggle clone](https://github.com/pablovicho/proyecto1), my Boggle clone! (still on debugging phase) 🎲
+
 <!--
 **pablovicho/pablovicho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
